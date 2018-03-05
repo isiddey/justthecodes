@@ -1,5 +1,5 @@
 /* Code to generate reverse of a string (with javascript).
-Send the string to the function palindrome.
+Send the string to the function reverseString.
 It will return reverse of the string.
 For complete challenge details, follow below link.
 Challenge reference : https://www.freecodecamp.org/challenges/reverse-a-string */
