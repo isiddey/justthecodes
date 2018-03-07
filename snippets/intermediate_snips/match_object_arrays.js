@@ -6,6 +6,8 @@ the matching objects from second array.
 For complete challenge details, follow below link.
 Challenge reference : https://www.freecodecamp.org/challenges/wherefore-art-thou */
 
+// collection is the first array in which we have to search
+// source is the second array in respect to which we have to search
 function whatIsInAName(collection, source) {
   // What's in a name?
   var arr = Object.keys(source);
